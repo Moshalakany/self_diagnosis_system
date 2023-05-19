@@ -1,0 +1,15 @@
+covid-19
+123
+very dangerous specially for people above 50
+fever,	coughing,	nasal congestion
+0
+diabetes
+456
+endemic
+very tired,	very thirsty,	very hungry
+0
+heart disease
+789
+extremely dangerous
+shortness of breath,	chest pain,	weakness
+0
